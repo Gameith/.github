@@ -1,2 +1,0 @@
-# Gameith 🎮
-www.gameith.net
