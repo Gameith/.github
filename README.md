@@ -1,2 +1,2 @@
-# .github
+# Gameith 🎮
 www.gameith.net
